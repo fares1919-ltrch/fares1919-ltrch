@@ -1,16 +1,10 @@
-## Hi there 👋
-
-<!--
-**fares1919-ltrch/fares1919-ltrch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Hi , i'm FARES !
+👨‍🎓 Software Engineering Student at The Higher Intitut of Computer Science of Mahdia  
+🔧Passionate about Artificial Intelligence & Machine Learning
+🚀 Fast Learner
+🚀Mastering the MERN Stack & advancing in AI
+🔧 Strong in Technical Skills
+🎯 Responsible & Organized
+🤝 Management & Communication Skills gained from leadership roles in university clubs
+🌱 Open to work opportunities
+✨ Excited for new experiences and growth
